@@ -1,0 +1,15 @@
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\bin\Debug\net6.0\Factory.exe
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\bin\Debug\net6.0\Factory.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\bin\Debug\net6.0\ref\Factory.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\ref\Factory.dll
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Users\Alexis\OneDrive\Documentos\ITLA\4to Cuatrimestre\Diseño Centrado en el Usuario\Factory\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache
